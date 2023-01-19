@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: c505c373-6af5-41b1-a42e-88fe6cf6925e
-  WEBAPP-NAME: DP3POs_CICD_WEBAPP
+  WEBAPP-NAME: DP3POs-CICD-WEBAPP
 
 
 jobs:
